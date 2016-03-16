@@ -1,0 +1,13 @@
+- La priorita è data dalla modifica dell'agente che verrà visto come un singolo individuo che risiede in un luogo e si reca preferibilmente in un dato luogo di lavoro.
+
+- questo comporta la definizione delle linee sulla quale viene ridistribuira la memoria del modello 
+
+- siamo certi di voler introdurre una rete neurale che rappresenti l'intelligenza di GTT
+- siamo certi di non voler introdurre una conoscenza collettiva per gli utenti passeggeri, per motivi di aderenza alla realtà, ne una rete neurale singola
+  per agente essendo computazionalmente proibitivo
+- le possibilità sono una rete neurale unica con dei filtri in uscita o un'"intelligenza" rudimentale come quella strutturata nella genesi del progetto
+
+- indagine delle politiche sociali al fine di introdurre filtri di rammarico o simili per aumentare la verosimilianza del modello con attenzione alla
+  complessità dell'algoritmo e al numero si gradi di libertà del modello.
+
+- In termini di esperimenti una delle priorità a nostro avviso è di indagare il legame tra la caratteristiche della distribuzione dei controlli rispetto ai parametri dei collegamenti e la percezione del rischio da parte dell'utenza

@@ -1,0 +1,101 @@
+!SESSION 2016-03-16 16:07:37.260 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=${target.nl}
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data @noDefault
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:07:51.183
+!MESSAGE Unable to create menu item "org.eclipse.ui.update.findAndInstallUpdates", command "org.eclipse.ui.update.findAndInstallUpdates" not defined
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:07:51.186
+!MESSAGE Unable to create menu item "org.eclipse.ui.update.manageConfiguration", command "org.eclipse.ui.update.manageConfiguration" not defined
+
+!ENTRY org.apache.log4j 2 0 2016-03-16 16:07:55.032
+!MESSAGE org.eclipse.xtext.ui.shared.internal.Activator  - Disabling JDT use. : org/eclipse/jdt/core/JavaCore
+
+
+!ENTRY org.apache.log4j 2 0 2016-03-16 16:07:55.258
+!MESSAGE org.eclipse.xtext.ui.shared.internal.Activator  - Disabling JDT use. : org/eclipse/jdt/core/JavaCore
+
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:08:02.650
+!MESSAGE GamlJavaValidator.validate
+
+!ENTRY org.eclipse.ui.ide 4 4 2016-03-16 16:09:04.608
+!MESSAGE File toolbar contribution item is missing
+
+!ENTRY org.eclipse.ui.ide 4 4 2016-03-16 16:10:11.795
+!MESSAGE File toolbar contribution item is missing
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:10:12.137
+!MESSAGE GamlJavaValidator.validate
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:10:29.541
+!MESSAGE GamlJavaValidator.validate
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:10:35.071
+!MESSAGE GamlDocumentationProvider.getDocumentation for msi.gama.lang.gaml.gaml.impl.FunctionImpl@3d2a38b (op: null)
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:10:40.744
+!MESSAGE GamlDocumentationProvider.getDocumentation for msi.gama.lang.gaml.gaml.impl.FacetImpl@272131b1 (name: null) (key: refresh:)
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:10:45.680
+!MESSAGE GamlJavaValidator.validate
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:10:49.312
+!MESSAGE GamlDocumentationProvider.getDocumentation for msi.gama.lang.gaml.gaml.impl.S_DisplayImpl@5baa68f9 (key: display, firstFacet: null) (name: chart)
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:10:58.344
+!MESSAGE GamlDocumentationProvider.getDocumentation for msi.gama.lang.gaml.gaml.impl.ExpressionListImpl@2dc4c00 (op: null)
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:11:03.946
+!MESSAGE GamlJavaValidator.validate
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:11:04.362
+!MESSAGE GamlJavaValidator.validate
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:11:05.049
+!MESSAGE GamlJavaValidator.validate
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:11:05.771
+!MESSAGE GamlJavaValidator.validate
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:11:54.350
+!MESSAGE GamlDocumentationProvider.getDocumentation for msi.gama.lang.gaml.gaml.impl.FacetImpl@6435d059 (name: null) (key: file:)
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:12:36.738
+!MESSAGE GamlDocumentationProvider.getDocumentation for msi.gama.lang.gaml.gaml.impl.BlockImpl@2d93b566
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:12:37.623
+!MESSAGE GamlDocumentationProvider.getDocumentation for msi.gama.lang.gaml.gaml.impl.BlockImpl@2d93b566
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:12:41.059
+!MESSAGE GamlJavaValidator.validate
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:12:43.316
+!MESSAGE GamlJavaValidator.validate
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:12:44.163
+!MESSAGE GamlJavaValidator.validate
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:12:48.522
+!MESSAGE GamlJavaValidator.validate
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:12:49.271
+!MESSAGE GamlJavaValidator.validate
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:12:55.812
+!MESSAGE GamlDocumentationProvider.getDocumentation for msi.gama.lang.gaml.gaml.impl.speciesOrGridDisplayStatementImpl@1f1403f0 (key: species, firstFacet: null)
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:12:56.481
+!MESSAGE GamlDocumentationProvider.getDocumentation for msi.gama.lang.gaml.gaml.impl.speciesOrGridDisplayStatementImpl@1f1403f0 (key: species, firstFacet: null)
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:13:08.131
+!MESSAGE GamlDocumentationProvider.getDocumentation for msi.gama.lang.gaml.gaml.impl.speciesOrGridDisplayStatementImpl@1f1403f0 (key: species, firstFacet: null)
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:13:08.631
+!MESSAGE GamlDocumentationProvider.getDocumentation for msi.gama.lang.gaml.gaml.impl.speciesOrGridDisplayStatementImpl@1f1403f0 (key: species, firstFacet: null)
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:14:55.387
+!MESSAGE GamlDocumentationProvider.getDocumentation for msi.gama.lang.gaml.gaml.impl.speciesOrGridDisplayStatementImpl@2b0fa572 (key: species, firstFacet: null)
