@@ -1,0 +1,21 @@
+- 532.000 viaggio origine/destinazione su rubano+suburbano (IMQ 2013, fonte)
+- non esiste un dato (6,2 km a viaggio) 5-10 km (vincolo sul totale)
+- non si sa quanti pagano o non pagano (non sappiamo quanti sono)
+- controllori urbano-suburbano (ordine di 150)
+- quanti passeggeri controllano al giorno? Può essere stimato grossolanamente <- vincolo sul comportamento dei controllori
+- un tot% pagano
+
+- profilo di destinazioni? 
+- come controlla GTT? come sceglie le linee?
+
+In GTT? Amministrazione    o 	Esercizio?
+	Claudio Conforti   o 	Giovanbattista Rabbino
+
+Profili di Origine-Destinazione dal IMQ 2008 (mattina-pomeriggio)
+
+Presidente GTT: Ceresa - ???@???
+Direttore GTT: Giampiero Fantini - fantini.g@gtt.to.it
+
+Elezioni: timori da GTT?
+
+Dati incontro: Sulla mappatura Torino, quindi le destinazioni in Torino, su fascia oraria. Profilo delle origini e delle destinazioni, non del wiring. Composizione media degli scopi per ora medio. Utilizzo del pubblico (ci è dentro anche ferrovia)

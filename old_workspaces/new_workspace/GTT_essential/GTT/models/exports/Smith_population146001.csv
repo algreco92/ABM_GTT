@@ -1,0 +1,5 @@
+"#","location","name","percorso","score","targets"
+"0","{60.6899999999996,18.174999999999272,0.0}","'Smith0'","[65 as wedge,301 as wedge,364 as wedge,388 as wedge,221 as wedge,15 as wedge,388 as wedge]","[3150,4500,3400,2600]","[65 as wedge,65 as wedge,248 as wedge,65 as wedge]"
+"1","{26.090000000000146,32.719999999997526,0.0}","'Smith1'","[247 as wedge,136 as wedge,61 as wedge,136 as wedge,61 as wedge,136 as wedge,61 as wedge]","[2850,2850,1300,800]","[247 as wedge,65 as wedge,119 as wedge,65 as wedge]"
+"2","{57.20499999999993,27.19499999999971,0.0}","'Smith2'","[149 as wedge,373 as wedge,265 as wedge,272 as wedge,289 as wedge,289 as wedge,289 as wedge]","[0,650,3150,1050]","[149 as wedge,173 as wedge,248 as wedge,297 as wedge]"
+"3","{36.05500000000029,13.545000000001892,0.0}","'Smith3'","[285 as wedge,227 as wedge,147 as wedge,227 as wedge,147 as wedge,227 as wedge,147 as wedge]","[0,3250,1950,0]","[285 as wedge,65 as wedge,247 as wedge,60 as wedge]"

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;GTT_essential/GTT/models/Model_6.0.gaml&apos; to &apos;Model_6.0_CORRETTO.gaml&apos;" description="Rename resource &apos;Model_6.0.gaml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="GTT/models/Model_6.0.gaml" name="Model_6.0_CORRETTO.gaml" stamp="1453730249492" updateReferences="true"/>
+</session>

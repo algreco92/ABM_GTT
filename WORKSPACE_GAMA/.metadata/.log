@@ -99,3 +99,9 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data @noDefault
 
 !ENTRY org.eclipse.ui 4 4 2016-03-16 16:14:55.387
 !MESSAGE GamlDocumentationProvider.getDocumentation for msi.gama.lang.gaml.gaml.impl.speciesOrGridDisplayStatementImpl@2b0fa572 (key: species, firstFacet: null)
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 16:26:13.655
+!MESSAGE GamlDocumentationProvider.getDocumentation for msi.gama.lang.gaml.gaml.impl.BlockImpl@442acf7a
+
+!ENTRY org.eclipse.ui 4 4 2016-03-16 17:10:56.227
+!MESSAGE GamlDocumentationProvider.getDocumentation for msi.gama.lang.gaml.gaml.impl.TypeRefImpl@3889fc48 (op: null)

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="23" version="2.0">
+<workbenchAdvisor/>
+<window height="658" maximized="true" width="671" x="425" y="32">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar/>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="msi.gama.application.common" itemType="typeToolBarContribution" x="377" y="30"/>
+<coolItem id="pm.eclipse.editbox.ActionSetId" itemType="typeToolBarContribution" x="40" y="30"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1446984513475" focus="true" label="Workspace - Modeling">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="msi.gama.lang.gaml.Gaml" name="Model_6.0_CORRETTO.gaml" partName="Model_6.0_CORRETTO.gaml" path="/home/alessandro/Gama/new_workspace/GTT_essential/GTT/models/Model_6.0_CORRETTO.gaml" title="Model_6.0_CORRETTO.gaml" tooltip="GTT_essential/GTT/models/Model_6.0_CORRETTO.gaml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GTT_essential/GTT/models/Model_6.0_CORRETTO.gaml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="18" selectionOffset="36394" selectionTopPixel="13087"/>
+</editor>
+<editor focus="true" id="msi.gama.lang.gaml.Gaml" name="Model_6.0.1.gaml" partName="Model_6.0.1.gaml" path="/home/alessandro/Gama/new_workspace/GTT_essential/GTT/models/Model_6.0.1.gaml" title="Model_6.0.1.gaml" tooltip="GTT_essential/GTT/models/Model_6.0.1.gaml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GTT_essential/GTT/models/Model_6.0.1.gaml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="156" selectionOffset="33997" selectionTopPixel="12347"/>
+</editor>
+</editors>
+<views>
+<view id="msi.gama.gui.view.GamaNavigator" partName="Gama Projects">
+<viewState CommonNavigator.LINKING_ENABLED="0"/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePerspective="msi.gama.application.perspectives.ModelingPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="msi.gama.gui.swt.perspectives.ModelingPerspective" id="msi.gama.application.perspectives.ModelingPerspective" label="Modeling"/>
+<alwaysOnActionSet id="trial"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="pm.eclipse.editbox.ActionSetId"/>
+<new_wizard_action id="msi.gama.gui.wizards.newProjectWizard"/>
+<hide_menu_item_id id="org.eclipse.pde.ui.junitWorkbenchShortcut.run"/>
+<hide_menu_item_id id="org.eclipse.ui.project.buildAll"/>
+<hide_menu_item_id id="org.eclipse.pde.ui.junitWorkbenchShortcut.debug"/>
+<hide_menu_item_id id="org.eclipse.ui.navigate.removeFromWorkingSet"/>
+<hide_menu_item_id id="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar"/>
+<hide_menu_item_id id="org.eclipse.ui.navigate.addToWorkingSet"/>
+<hide_menu_item_id id="org.eclipse.ui.externalTools.commands.OpenExternalToolsConfigurations"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.backwardHistory"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.previous"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.back"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.up"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.forwardHistory"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.gotoPreviousAnnotation"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.forward"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.next"/>
+<view id="msi.gama.gui.view.GamaNavigator"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@7889f36c">
+<folder activePageID="msi.gama.gui.view.GamaNavigator" appearance="2" expanded="2">
+<page content="msi.gama.gui.view.GamaNavigator" label="Gama Projects"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.internal.ViewStack@7889f36c">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.23763837" ratioLeft="322" ratioRight="1033" relationship="2" relative="org.eclipse.ui.internal.ViewStack@7889f36c"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@7279d3e" ratio="0.65976334" ratioLeft="446" ratioRight="230" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@28cc7547" ratio="0.5" ratioLeft="338" ratioRight="338" relationship="4" relative="org.eclipse.ui.internal.ViewStack@7889f36c">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="msi.gama.gui.swt.perspectives.SimulationPerspective" id="msi.gama.application.perspectives.SimulationPerspective" label="Simulation"/>
+<alwaysOnActionSet id="trial"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="pm.eclipse.editbox.ActionSetId"/>
+<hide_menu_item_id id="org.eclipse.pde.ui.junitWorkbenchShortcut.run"/>
+<hide_menu_item_id id="org.eclipse.ui.project.buildAll"/>
+<hide_menu_item_id id="org.eclipse.pde.ui.junitWorkbenchShortcut.debug"/>
+<hide_menu_item_id id="org.eclipse.ui.navigate.removeFromWorkingSet"/>
+<hide_menu_item_id id="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar"/>
+<hide_menu_item_id id="org.eclipse.ui.navigate.addToWorkingSet"/>
+<hide_menu_item_id id="org.eclipse.ui.externalTools.commands.OpenExternalToolsConfigurations"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.backwardHistory"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.previous"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.back"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.up"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.forwardHistory"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.gotoPreviousAnnotation"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.forward"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.next"/>
+<view id="msi.gama.gui.view.GamaNavigator"/>
+<fastViewBars/>
+<viewLayoutRec id="msi.gama.gui.view.GamaNavigator" moveable="false"/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@7944db89">
+<folder activePageID="msi.gama.gui.view.GamaNavigator" appearance="2" expanded="2">
+<page content="msi.gama.gui.view.GamaNavigator" label="Gama Projects"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.internal.ViewStack@7944db89">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@17a93d92" ratio="0.30627307" ratioLeft="415" ratioRight="940" relationship="2" relative="org.eclipse.ui.internal.ViewStack@7944db89">
+<folder appearance="2" expanded="2">
+<page content="msi.gama.application.view.LayeredDisplayView:*" label="LabelNotFound"/>
+<page content="msi.gama.application.view.LayeredDisplayView:graphView" label="LabelNotFound"/>
+<page content="msi.gama.application.view.LayeredDisplayView:chart" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.76077265" ratioLeft="512" ratioRight="161" relationship="4" relative="org.eclipse.ui.internal.ViewStack@17a93d92"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1370775b" ratio="0.5" ratioLeft="558" ratioRight="558" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="msi.gama.application.view.TableAgentInspectView:Model522_model" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@396ecbfc" ratio="0.55478776" ratioLeft="562" ratioRight="451" relationship="2" relative="org.eclipse.ui.internal.ViewStack@17a93d92">
+<folder appearance="2" expanded="2">
+<page content="msi.gama.application.view.MonitorView" label="LabelNotFound"/>
+<page content="msi.gama.application.view.ParameterView" label="LabelNotFound"/>
+<page content="msi.gama.application.view.ErrorView" label="LabelNotFound"/>
+<page content="msi.gama.application.view.TableAgentInspectView:passenger" label="LabelNotFound"/>
+<page content="msi.gama.application.view.TableAgentInspectView:bus_stop" label="LabelNotFound"/>
+<page content="msi.gama.application.view.TableAgentInspectView:wedge" label="LabelNotFound"/>
+<page content="msi.gama.application.view.TableAgentInspectView:GTKIRA" label="LabelNotFound"/>
+<page content="msi.gama.application.view.TableAgentInspectView:Smith" label="LabelNotFound"/>
+<page content="msi.gama.application.view.TableAgentInspectView:Model51_model" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="inspectorsFolder2" ratio="0.4988067" ratioLeft="209" ratioRight="210" relationship="4" relative="org.eclipse.ui.internal.ViewStack@396ecbfc">
+<folder appearance="2" expanded="2">
+<page content="msi.gama.application.view.AgentInspectView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@940b7e8" ratio="0.4205052" ratioLeft="283" ratioRight="390" relationship="4" relative="org.eclipse.ui.internal.ViewStack@7944db89">
+<folder appearance="2" expanded="2">
+<page content="msi.gama.application.view.ConsoleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" path="/GTT_essential/GTT/models/Model_6.0_CORRETTO.gaml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" path="/GTT_essential/GTT/models/Model_6.0.1.gaml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" path="/GTT_essential/GTT/models/Model_6.0_CORRETTO.gaml"/>
+</editors>
+<item historyLabel="Model_6.0_CORRETTO.gaml" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Model_6.0.1.gaml" index="1">
+<position/>
+</item>
+<item historyLabel="Model_6.0_CORRETTO.gaml" index="0">
+<position info="not_deleted" x="36394" y="18"/>
+</item>
+<item historyLabel="Model_6.0.1.gaml" index="1">
+<position/>
+</item>
+<item historyLabel="Model_6.0_CORRETTO.gaml" index="2">
+<position info="not_deleted" x="36394" y="18"/>
+</item>
+<item active="true" historyLabel="Model_6.0.1.gaml" index="1">
+<position info="not_deleted" x="36422" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.HeapStatus"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" name="Model_6.0.1.gaml" tooltip="GTT_essential/GTT/models/Model_6.0.1.gaml">
+<persistable path="/GTT_essential/GTT/models/Model_6.0.1.gaml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" name="Model_6.0_CORRETTO.gaml" tooltip="GTT_essential/GTT/models/Model_6.0_CORRETTO.gaml">
+<persistable path="/GTT_essential/GTT/models/Model_6.0_CORRETTO.gaml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" name="Rete_Urbana.gaml" tooltip="GTT_essential/GTT/models/Rete_Urbana.gaml">
+<persistable path="/GTT_essential/GTT/models/Rete_Urbana.gaml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" name="Model_6.0.gaml" tooltip="GTT_essential/models/Model_6.0.gaml">
+<persistable path="/GTT_essential/models/Model_6.0.gaml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" name="Model_ghost.gaml" tooltip="GTT_essential/GTT/models/Model_ghost.gaml">
+<persistable path="/GTT_essential/GTT/models/Model_ghost.gaml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" name="Model_5.2.3DaCommentare.gaml" tooltip="GTT_essential/GTT/models/Model_5.2.3DaCommentare.gaml">
+<persistable path="/GTT_essential/GTT/models/Model_5.2.3DaCommentare.gaml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" name="Model_5.2.2DaCommentare.gaml" tooltip="GTT_essential/GTT/models/Model_5.2.2DaCommentare.gaml">
+<persistable path="/GTT_essential/GTT/models/Model_5.2.2DaCommentare.gaml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" name="Model_ghost.gaml" tooltip="GTT_essential/models/Model_ghost.gaml">
+<persistable path="/GTT_essential/models/Model_ghost.gaml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="ticket_trend_7571.csv" tooltip="GTT_essential/GTT/models/exports/24_11/ticket_trend_7571.csv">
+<persistable path="/GTT_essential/GTT/models/exports/24_11/ticket_trend_7571.csv"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="ticket_trend_7020.csv" tooltip="GTT_essential/GTT/models/exports/24_11/ticket_trend_7020.csv">
+<persistable path="/GTT_essential/GTT/models/exports/24_11/ticket_trend_7020.csv"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="ticket_trend_0_25.csv" tooltip="GTT_essential/GTT/models/exports/23_11/ticket_trend_0_25.csv">
+<persistable path="/GTT_essential/GTT/models/exports/23_11/ticket_trend_0_25.csv"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" name="Model_5.2.2.gaml" tooltip="GTT_essential/GTT/models/Model_5.2.2.gaml">
+<persistable path="/GTT_essential/GTT/models/Model_5.2.2.gaml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" name="Model_5.2.2.gaml" tooltip="GTT_essential/models/Model_5.2.2.gaml">
+<persistable path="/GTT_essential/models/Model_5.2.2.gaml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="ticket_trend_0_0.5.csv" tooltip="GTT_essential/GTT/models/exports/19_11/ticket_trend_0_0.5.csv">
+<persistable path="/GTT_essential/GTT/models/exports/19_11/ticket_trend_0_0.5.csv"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="ticket_trend_0_0.75.csv" tooltip="GTT_essential/GTT/models/exports/19_11/ticket_trend_0_0.75.csv">
+<persistable path="/GTT_essential/GTT/models/exports/19_11/ticket_trend_0_0.75.csv"/>
+</file>
+</mruList>
+</workbench>

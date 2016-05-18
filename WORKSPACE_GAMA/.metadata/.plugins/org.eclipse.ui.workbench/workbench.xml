@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="3" version="2.0">
+<workbenchAdvisor/>
+<window height="735" maximized="true" width="697" x="-7" y="0">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar/>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="msi.gama.application.common" itemType="typeToolBarContribution" x="370" y="22"/>
+<coolItem id="pm.eclipse.editbox.ActionSetId" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1458140871868" focus="true" label="Workspace - Modeling">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="msi.gama.lang.gaml.Gaml" name="Model_6.0.1.gaml" partName="Model_6.0.1.gaml" path="C:/Users/Alessandro/Documents/ABM_GTT/WORKSPACE_GAMA/ABM_GTT/models/Model_6.0.1.gaml" title="Model_6.0.1.gaml" tooltip="ABM_GTT/models/Model_6.0.1.gaml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ABM_GTT/models/Model_6.0.1.gaml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="36250" selectionTopPixel="11915"/>
+</editor>
+</editors>
+<views>
+<view id="msi.gama.gui.view.GamaNavigator" partName="Gama Projects">
+<viewState CommonNavigator.LINKING_ENABLED="0"/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="msi.gama.lang.gaml.Gaml" activePerspective="msi.gama.application.perspectives.ModelingPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="msi.gama.gui.swt.perspectives.ModelingPerspective" id="msi.gama.application.perspectives.ModelingPerspective" label="Modeling"/>
+<alwaysOnActionSet id="trial"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="pm.eclipse.editbox.ActionSetId"/>
+<new_wizard_action id="msi.gama.gui.wizards.newProjectWizard"/>
+<hide_menu_item_id id="org.eclipse.ui.project.buildAll"/>
+<hide_menu_item_id id="org.eclipse.pde.ui.junitWorkbenchShortcut.debug"/>
+<hide_menu_item_id id="org.eclipse.pde.ui.junitWorkbenchShortcut.run"/>
+<hide_menu_item_id id="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar"/>
+<hide_menu_item_id id="org.eclipse.ui.externalTools.commands.OpenExternalToolsConfigurations"/>
+<hide_menu_item_id id="org.eclipse.ui.navigate.addToWorkingSet"/>
+<hide_menu_item_id id="org.eclipse.ui.navigate.removeFromWorkingSet"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.back"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.forward"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.up"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.next"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.backwardHistory"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.forwardHistory"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.previous"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.gotoPreviousAnnotation"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="msi.gama.gui.view.GamaNavigator"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1f51431">
+<folder activePageID="msi.gama.gui.view.GamaNavigator" appearance="2" expanded="2">
+<page content="msi.gama.gui.view.GamaNavigator" label="Gama Projects"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="507" ratioRight="169" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1f51431">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.23099631" ratioLeft="313" ratioRight="1042" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1f51431"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@38eb2c50" ratio="0.6593674" ratioLeft="271" ratioRight="140" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@26a2f7f9" ratio="0.49878347" ratioLeft="205" ratioRight="206" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1f51431">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="0" fixed="0" version="0.016">
+<descriptor class="msi.gama.gui.swt.perspectives.SimulationPerspective" id="msi.gama.application.perspectives.SimulationPerspective" label="Simulation"/>
+<alwaysOnActionSet id="trial"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="pm.eclipse.editbox.ActionSetId"/>
+<hide_menu_item_id id="org.eclipse.ui.project.buildAll"/>
+<hide_menu_item_id id="org.eclipse.pde.ui.junitWorkbenchShortcut.debug"/>
+<hide_menu_item_id id="org.eclipse.pde.ui.junitWorkbenchShortcut.run"/>
+<hide_menu_item_id id="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar"/>
+<hide_menu_item_id id="org.eclipse.ui.externalTools.commands.OpenExternalToolsConfigurations"/>
+<hide_menu_item_id id="org.eclipse.ui.navigate.addToWorkingSet"/>
+<hide_menu_item_id id="org.eclipse.ui.navigate.removeFromWorkingSet"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.back"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.forward"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.up"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.next"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.backwardHistory"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.forwardHistory"/>
+<hide_toolbar_item_id id="org.eclipse.ui.navigate.previous"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.gotoPreviousAnnotation"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="msi.gama.gui.view.GamaNavigator"/>
+<fastViewBars/>
+<viewLayoutRec id="msi.gama.gui.view.GamaNavigator" moveable="false"/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@685e6a68">
+<folder activePageID="msi.gama.gui.view.GamaNavigator" appearance="2" expanded="2">
+<page content="msi.gama.gui.view.GamaNavigator" label="Gama Projects"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.internal.ViewStack@685e6a68">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="layersFolder" ratio="0.22974963" ratioLeft="312" ratioRight="1046" relationship="2" relative="org.eclipse.ui.internal.ViewStack@685e6a68">
+<folder appearance="2" expanded="2">
+<page content="msi.gama.application.view.LayeredDisplayView:*" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.618442" ratioLeft="389" ratioRight="240" relationship="4" relative="layersFolder"/>
+<info folder="true" part="inspectorsFolder" ratio="0.51912045" ratioLeft="543" ratioRight="503" relationship="2" relative="layersFolder">
+<folder appearance="2" expanded="2">
+<page content="msi.gama.application.view.MonitorView" label="LabelNotFound"/>
+<page content="msi.gama.application.view.ParameterView" label="LabelNotFound"/>
+<page content="msi.gama.application.view.ErrorView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="inspectorsFolder2" ratio="0.49871466" ratioLeft="194" ratioRight="195" relationship="4" relative="inspectorsFolder">
+<folder appearance="2" expanded="2">
+<page content="msi.gama.application.view.AgentInspectView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@194224ca" ratio="0.69952303" ratioLeft="440" ratioRight="189" relationship="4" relative="org.eclipse.ui.internal.ViewStack@685e6a68">
+<folder appearance="2" expanded="2">
+<page content="msi.gama.application.view.ConsoleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" path="/ABM_GTT/models/Model_6.0.1.gaml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" path="/Toy Models/Segregation/models/Segregation (Google Map).gaml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" path="/Toy Models/Segregation/models/Segregation (GIS).gaml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" path="/Toy Models/Vote/Vote.gaml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" path="/Toy Models/Flood Simulation/models/Hydrological Model.gaml"/>
+</editors>
+<item historyLabel="Model_6.0.1.gaml" index="0">
+<position info="not_deleted" x="36417" y="0"/>
+</item>
+<item historyLabel="Segregation (Google Map).gaml" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Segregation (GIS).gaml" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Segregation (Google Map).gaml" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Model_6.0.1.gaml" index="0">
+<position info="not_deleted" x="36417" y="0"/>
+</item>
+<item historyLabel="Vote.gaml" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Model_6.0.1.gaml" index="0">
+<position info="not_deleted" x="36417" y="0"/>
+</item>
+<item historyLabel="Hydrological Model.gaml" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Model_6.0.1.gaml" index="0">
+<position info="not_deleted" x="36417" y="0"/>
+</item>
+<item historyLabel="Hydrological Model.gaml" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Model_6.0.1.gaml" index="0">
+<position info="not_deleted" x="36417" y="0"/>
+</item>
+<item historyLabel="Hydrological Model.gaml" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="Model_6.0.1.gaml" index="0">
+<position info="not_deleted" x="36417" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.HeapStatus"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" name="Hydrological Model.gaml" tooltip="Toy Models/Flood Simulation/models/Hydrological Model.gaml">
+<persistable path="/Toy Models/Flood Simulation/models/Hydrological Model.gaml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" name="Vote.gaml" tooltip="Toy Models/Vote/Vote.gaml">
+<persistable path="/Toy Models/Vote/Vote.gaml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" name="Segregation (GIS).gaml" tooltip="Toy Models/Segregation/models/Segregation (GIS).gaml">
+<persistable path="/Toy Models/Segregation/models/Segregation (GIS).gaml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" name="Segregation (Google Map).gaml" tooltip="Toy Models/Segregation/models/Segregation (Google Map).gaml">
+<persistable path="/Toy Models/Segregation/models/Segregation (Google Map).gaml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="msi.gama.lang.gaml.Gaml" name="Model_6.0.1.gaml" tooltip="ABM_GTT/models/Model_6.0.1.gaml">
+<persistable path="/ABM_GTT/models/Model_6.0.1.gaml"/>
+</file>
+</mruList>
+</workbench>
